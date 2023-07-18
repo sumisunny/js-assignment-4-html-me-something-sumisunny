@@ -1,1 +1,16 @@
+
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    padding: 0;
+  }
+  .uppercase {
+    text-transform: uppercase;
+  }
+  #mainHeading {
+    color: red;
+  }
+  
+  .funParagraph {
+    color: rgb(58, 152, 4);
+  }
