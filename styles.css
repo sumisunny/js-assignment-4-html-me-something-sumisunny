@@ -1,16 +1,36 @@
-
 /* Write your CSS here! */
 body {
-    margin: 8px;
-    padding: 0;
-  }
-  .uppercase {
-    text-transform: uppercase;
-  }
-  #mainHeading {
-    color: red;
-  }
-  
-  .funParagraph {
-    color: rgb(58, 152, 4);
-  }
+  font-family: Arial, sans-serif;
+  margin: 8px;
+  padding: 0;
+  display: block;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+img {
+  max-width: 50%;
+  height: 50;
+}
+
+footer {
+  text-align: center;
+  color: #362175;
+  font-size: 24px;
+  margin-top: 50px;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+#mainHeading {
+  color: red;
+}
+
+.funParagraph {
+  color: green;
+}
